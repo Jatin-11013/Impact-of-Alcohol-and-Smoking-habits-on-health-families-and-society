@@ -4,7 +4,7 @@ This project explores how alcohol and smoking habits affect individuals, familie
 
 ## 📂 Excel File Structure
 
-The Excel file contains:
+The  project_file contains:
 - **Sheet1 – Raw Data**: Survey responses from individuals on the effects of alcohol and smoking.
 - **Sheet2 – Pivot Table Analysis**: Aggregated summaries using Pivot Tables.
 - **Sheet3 – Dashboard**: Visual representation of insights (charts, slicers, etc.).
